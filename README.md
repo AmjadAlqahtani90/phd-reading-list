@@ -1,12 +1,12 @@
-# 📚 PhD Reading List
+# PhD Reading List
 
-A curated collection of research papers assigned by my advisor, organized by theme.  
+A collection of research papers assigned by my advisor, organized by theme.  
 Started: **Fall 2026** · Maintained by: **Amjad Alqahtani**  
 🔗 [github.com/AmjadAlqahtani90/phd-reading-list](https://github.com/AmjadAlqahtani90/phd-reading-list.git)
 
 ---
 
-## 🗂️ Themes Overview
+## Themes Overview
 
 | # | Theme | Papers | Status |
 |---|-------|:------:|--------|
@@ -18,7 +18,7 @@ Started: **Fall 2026** · Maintained by: **Amjad Alqahtani**
 
 ---
 
-## 🧠 Theme 01 · Agentic AI — Foundations & Surveys
+## Theme 01 · Agentic AI — Foundations & Surveys
 
 > Core papers establishing the foundations, architectures, and taxonomies of Agentic AI systems.
 
@@ -30,7 +30,7 @@ Started: **Fall 2026** · Maintained by: **Amjad Alqahtani**
 
 ---
 
-## 🔐 Theme 02 · Agentic AI — Cybersecurity & Compliance
+## Theme 02 · Agentic AI — Cybersecurity & Compliance
 
 > Papers applying Agentic AI to cybersecurity threat detection, defense, and regulatory compliance.
 
@@ -44,7 +44,7 @@ Started: **Fall 2026** · Maintained by: **Amjad Alqahtani**
 
 ---
 
-## ⚙️ Theme 03 · Agentic AI — Optimization & Benchmarking
+## Theme 03 · Agentic AI — Optimization & Benchmarking
 
 > Papers on optimizing agentic systems, prompt evolution, planning, tool use, and evaluation benchmarks.
 
@@ -57,7 +57,7 @@ Started: **Fall 2026** · Maintained by: **Amjad Alqahtani**
 
 ---
 
-## 🛠️ Theme 04 · Software Services & LLM Applications
+## Theme 04 · Software Services & LLM Applications
 
 > Papers on applying LLMs within software engineering services for compliance, detection, and reliability.
 
@@ -70,7 +70,7 @@ Started: **Fall 2026** · Maintained by: **Amjad Alqahtani**
 
 ---
 
-## 📖 Theme 05 · Books & Practical Guides
+## Theme 05 · Books & Practical Guides
 
 > Hands-on books and practical resources for building agentic systems.
 
@@ -78,61 +78,4 @@ Started: **Fall 2026** · Maintained by: **Amjad Alqahtani**
 |---|-------|---------|-----------|:----:|------|--------|
 | 1 | Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems | Antonio Gullí | O'Reilly / Amazon | 2025 | [Amazon](https://a.co/d/0fTLDA0R) | ⬜ Unread |
 
----
 
-## 📝 Paper Notes Template
-
-When reading a paper, create a folder under its theme and add a `notes.md` file:
-
-```markdown
-# Paper Title
-
-**Authors:** ...
-**Year:** ...
-**Venue:** ...
-**Link:** ...
-**Date read:** YYYY-MM-DD
-
----
-
-## 🔍 Summary
-(1–2 sentence overview)
-
-## 💡 Key Contributions
--
-
-## 🧠 My Takeaways
--
-
-## ❓ Open Questions
--
-
-## 🔗 Related Papers
--
-```
-
----
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/AmjadAlqahtani90/phd-reading-list.git
-cd phd-reading-list
-```
-
----
-
-## 📌 Progress Tracker
-
-- [x] Set up repository
-- [x] Add initial paper list
-- [ ] Organize papers into theme folders
-- [ ] Complete notes for Theme 01 (Foundations)
-- [ ] Complete notes for Theme 02 (Cybersecurity)
-- [ ] Complete notes for Theme 03 (Optimization)
-- [ ] Complete notes for Theme 04 (Software Services)
-- [ ] Read the book (Theme 05)
-
----
-
-*"A PhD is not about reading everything — it's about reading the right things deeply."*
